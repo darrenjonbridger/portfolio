@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Portfolio - Darren Bridger
 
-This is the portfolio of Darren Bridger.  Impressive huh!
+Impressive huh!
