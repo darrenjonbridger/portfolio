@@ -6,8 +6,6 @@ permalink: /about
 
 # Portfolio - Darren Bridger
 
-<iframe width="832" height="468" src="https://www.youtube.com/embed/G_ExduIXNTc" title="Prochem Galaxy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 **Education**
 - Imperial College London, Professional Certificate in Data Analytics, 2024 
 - Shillington College London, Graphic Design Diploma, 2009
