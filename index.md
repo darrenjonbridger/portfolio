@@ -1,4 +1,4 @@
 ---
 layout: home
-title: 'title here perhaps?'
+title: 'Darren Bridger Portfolio'
 ---
